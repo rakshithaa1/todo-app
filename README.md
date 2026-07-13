@@ -44,20 +44,6 @@ https://todo-app-dashboard.vercel.app/
 
 ---
 
-## 📁 Folder Structure
-
-```
-src/
-│
-├── components/
-├── assets/
-├── App.jsx
-├── App.css
-├── main.jsx
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Clone the repository
